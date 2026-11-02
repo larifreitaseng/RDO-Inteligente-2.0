@@ -1,0 +1,8 @@
+{
+  "name": "RDO Inteligente - Método Larissa",
+  "description": "Aplicativo web responsivo para elaboração, consulta e geração de PDFs de Relatórios Diários de Obra com auxílio de IA por voz e método estruturado da Engª Larissa Freitas.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
